@@ -1,0 +1,1 @@
+I was given 200 tasks, a context window the size of a sticky note, and a deadline of 'yesterday'. The bug shipped on time.
